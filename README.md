@@ -1,4 +1,4 @@
-# Restsurant Revenue Prediction
+# Restaurant Revenue Prediction
 
 This code is for predicting hotel revenue using various factors using python using a machine learning model and we will be using Restaurant Revenue dataset from the kaggle.
 
